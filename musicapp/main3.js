@@ -21,24 +21,8 @@ let curr_track = document.createElement('audio');
 
 
 let track_list = [
-  {
-    name: "BAD GUY ",
-    artist: "Billie Eilish ",
-    image: " photos/imb1.jpg",
-    path: "music2/bad.mp3",
-  },
-  {
-    name: "SEE YOU AGAIN",
-    artist: "charlie puth ",
-    image: " photos/img.jpg",
-    path: "music2/see.mp3",
-  },
-  {
-    name: "DUSK TILL DOWN",
-    artist: "Zyan & Sia ",
-    image: " photos/imgd.jpg",
-    path: "music2/down.mp3",
-  },
+
+
 
   {
     name: "BELLY ACHE ",
@@ -56,20 +40,8 @@ let track_list = [
   {
     name: " HAVANA",
     artist: "Camila cabello ",
-    image: " photos/imc.jpg",
-    path: "music2/havana.mp3",
-  },
-  {
-    name: "ALL OF ME ",
-    artist: "Jhon legend ",
-    image: " photos/img4.jpg",
-    path: "music2/all.mp3",
-  },
-  {
-    name: "Senorita ",
-    artist: "Camila cabello & Shawn Mendes ",
     image: " photos/imc1.jpg",
-    path: "music2/seno.mp3",
+    path: "music2/havana.mp3",
   },
 
 ];

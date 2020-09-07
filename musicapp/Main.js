@@ -21,18 +21,8 @@ let curr_track = document.createElement('audio');
 
 
 let track_list = [
-  {
-    name: "Dynamite ",
-    artist: "BTS ",
-    image: " imagess/image-15.jpg",
-    path: "music/music-12.mp3",
-  },
-  {
-    name: "Promise ",
-    artist: "JIMIN ",
-    image: " imagess/jimin.jpg",
-    path: "music/music-13.mp3",
-  },
+
+
   {
     name: "WHO ",
     artist: "LAUV,JIMIN,JUNGKOOK ",
@@ -40,18 +30,8 @@ let track_list = [
     path: "music/who.mp3",
   },
 
-  {
-    name: "LOST ",
-    artist: "V,JIMIN,JIN,JUNGKOOK ",
-    image: " imagess/image-21.jpg",
-    path: "music/lost.mp3",
-  },
-  {
-    name: "Still With You  ",
-    artist: "Jungkook ",
-    image: " imagess/image-8.jpg",
-    path: "music/music-5.mp3",
-  },
+
+
   {
     name: "4'o Clock ",
     artist: "V & RM ",
@@ -64,70 +44,8 @@ let track_list = [
     image: " imagess/image-14.jpg",
     path: "music/music-11.mp3",
   },
-  {
-    name: "BLACK SWAN",
-    artist: "BTS",
-    image:  "imagess/image-4.jpg",
-    path: "music/music-1.mp3"
-  },
-  {
-    name: "SHADOW",
-    artist: "SUGA/AUGST D",
-    image: "imagess/image-6.jpg ",
-    path: "music/music-2.mp3"
-  },
-  {
-    name: "Aeroplane ft.2",
-    artist: "BTS ",
-    image: " imagess/image-5.jpg",
-    path: "music/music-4.mp3",
-  },
-  {
-    name: "Daechwita",
-    artist: "SUGA/AUGST D",
-    image: " imagess/image-7.jpg",
-    path: "music/music-3.mp3",
-  },
-  {
-    name: "MOON ",
-    artist: "JIN",
-    image: " imagess/jin.jpg",
-    path: "music/Moon.mp3",
-  },
 
-  {
-    name: "Dionysus ",
-    artist: "BTS ",
-    image: " imagess/image-9.jpg",
-    path: "music/music-6.mp3",
-  },
-
-  {
-    name: "Spring Day ",
-    artist: "BTS ",
-    image: " imagess/image-1.jpg",
-    path: "music/music-9.mp3",
-  },
-
-
-
-
-  {
-    name: "IONIQ ",
-    artist: "BTS ",
-    image: " imagess/image-0.jpg",
-    path: "music/music-14.mp3",
-  },
-
-
-  {
-    name: "House of Cards ",
-    artist: "V,JIMIN,JIN,JUNGKOOK",
-    image: " imagess/img.jpg",
-    path: "music/house.mp3",
-  },
-
-
+   
 ];
 
 function random_bg_color() {

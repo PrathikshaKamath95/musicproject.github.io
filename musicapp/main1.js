@@ -21,49 +21,28 @@ let curr_track = document.createElement('audio');
 
 
 let track_list = [
-  {
-    name: "HIGH ON LOVE ",
-    artist: "Martix Garrix,Bebe Rexha ",
-    image: " photo/im1.jpg",
-    path: "music1/love.mp3",
-  },
+
   {
     name: "WILD ",
     artist: "Jonas Blue ",
     image: " photo/im2.jpg",
     path: "music1/wild.mp3",
   },
-  {
-    name: "ALONE",
-    artist: "Alan Walker ",
-    image: " photo/im3.jpg",
-    path: "music1/alone.mp3",
-  },
+
 
   {
     name: "HIGH ON LIFE ",
     artist: "Martix Garrix ",
-    image: " photo/im4.jpg",
+    image: " photo/im5.jpg",
     path: "music1/high.mp3",
   },
-  {
-    name: "MORE THAN YOU KNOW  ",
-    artist: "AXwell ",
-    image: " photo/im5.jpg",
-    path: "music1/more.mp3",
-  },
+
 
   {
     name: " NO SLEEP",
     artist: "Martix Garrix ",
-    image: " photo/im2.jpg",
+    image: " photo/im1.jpg",
     path: "music1/no.mp3",
-  },
-  {
-    name: "THERE FOR YOU ",
-    artist: "Martix Garrix ",
-    image: " photo/im6.jpg",
-    path: "music1/there.mp3",
   },
 
 ];
